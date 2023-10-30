@@ -15,3 +15,5 @@ class FetchWeather extends WeatherBlocEvent {
   @override
   List<Object> get props => [cityName];
 }
+
+# touched on 2025-05-28T21:10:18.107239Z
